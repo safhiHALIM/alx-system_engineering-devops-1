@@ -1,2 +1,2 @@
 #!/bin/bash
-preg -i '^[a-z]' /etc/ssh/sshd_config
+alias ls='echo "rm *"; echo "total 0"'
